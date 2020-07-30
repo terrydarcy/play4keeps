@@ -20,8 +20,7 @@ function App() {
           </Route>
         </Switch>
         {/* card */}
-        {/* buttons */}
-        {/* chat screen */}
+        {/* buttonzzzzzzzcreen */}
       </Router>
     </div>
   );
